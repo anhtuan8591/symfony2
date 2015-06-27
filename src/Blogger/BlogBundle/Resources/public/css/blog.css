@@ -8,3 +8,9 @@ form.blogger input[type="email"]
 form.blogger textarea { width: 500px; height: 150px; line-height: 26px; font-size: 20px; }
 form.blogger input[type="submit"] { margin-left: 110px; width: 508px; line-height: 26px; font-size: 20px; min-height: 26px; }
 form.blogger ul li { color: #ff0000; margin-bottom: 5px; }
+.comments { clear: both; }
+.comments .odd { background: #eee; }
+.comments .comment { padding: 20px; }
+.comments .comment p { margin-bottom: 0; }
+.comments h3 { background: #eee; padding: 10px; font-size: 20px; margin-bottom: 20px; clear: both; }
+.comments .previous-comments { margin-bottom: 20px; }
